@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Apr  2 12:28:04 2019
-
-@author: Administrator
+Copy from https://github.com/jonasteuwen/chaos-challenge
+@author: JUN
 """
 
 __author__ = 'Jonas Teuwen'
